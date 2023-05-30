@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "32B0DEFD-8ADF-4A33-B62B-21A3E81D6EA8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E66137D9-2AED-4F1E-8442-04673BBA29A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API&apos;sList/Preview Content/BreweriesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBF67CE0-F552-483A-9489-9B322EA4D2B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API&apos;sList/Preview Content/BreweriesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DBF67CE0-F552-483A-9489-9B322EA4D2B1 - 582677fec46f1501"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "API_sList.BreweriesView.body.getter : some"
+                  moduleName = "API&apos;sList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khloud/Documents/API&apos;sList/API&apos;sList/Preview%20Content/BreweriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "DBF67CE0-F552-483A-9489-9B322EA4D2B1 - 7a94200c2d3761d0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in API_sList.BreweriesView.body.getter : some"
+                  moduleName = "API&apos;sList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khloud/Documents/API&apos;sList/API&apos;sList/Preview%20Content/BreweriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF6DEC50-C3EB-4B83-A8AE-6683D7C7A91E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API&apos;sList/Preview Content/BreweriesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E44A9873-A0CA-4996-AC9E-0AE559FC4C6D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API&apos;sList/Preview Content/BreweriesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "BreweriesView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C80227C8-3DA0-4E26-BC53-7EB924F5BD41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API&apos;sList/Preview Content/BreweriesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD072EE7-A993-4503-B40C-3C5F07E1C7AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API&apos;sList/Preview Content/BreweriesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD56612E-3A03-41AF-B56C-56CC6949F6A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API&apos;sList/Preview Content/BreweriesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BD56612E-3A03-41AF-B56C-56CC6949F6A1 - cf897f8f924dfd9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for API_sList.BreweriesView.loadData() async -&gt; ()"
+                  moduleName = "API&apos;sList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khloud/Documents/API&apos;sList/API&apos;sList/Preview%20Content/BreweriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "BD56612E-3A03-41AF-B56C-56CC6949F6A1 - 3d6fb5b8242827ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for API_sList.BreweriesView.loadData() async -&gt; ()"
+                  moduleName = "API&apos;sList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khloud/Documents/API&apos;sList/API&apos;sList/Preview%20Content/BreweriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "BD56612E-3A03-41AF-B56C-56CC6949F6A1 - 434e426a1e09559c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for API_sList.BreweriesView.loadData() async -&gt; ()"
+                  moduleName = "API&apos;sList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khloud/Documents/API&apos;sList/API&apos;sList/Preview%20Content/BreweriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "BD56612E-3A03-41AF-B56C-56CC6949F6A1 - 992d3c585c28819b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for API_sList.BreweriesView.loadData() async -&gt; ()"
+                  moduleName = "API&apos;sList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khloud/Documents/API&apos;sList/API&apos;sList/Preview%20Content/BreweriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF4D1CBB-A367-4DE2-971C-B3009BB21FC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API&apos;sList/Preview Content/BreweriesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF4D1CBB-A367-4DE2-971C-B3009BB21FC0 - 434e426a1e095452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for API_sList.BreweriesView.loadData() async -&gt; ()"
+                  moduleName = "API&apos;sList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khloud/Documents/API&apos;sList/API&apos;sList/Preview%20Content/BreweriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "CF4D1CBB-A367-4DE2-971C-B3009BB21FC0 - 434e426a1e095452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for API_sList.BreweriesView.loadData() async -&gt; ()"
+                  moduleName = "API&apos;sList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khloud/Documents/API&apos;sList/API&apos;sList/Preview%20Content/BreweriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
